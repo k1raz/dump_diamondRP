@@ -1,0 +1,1 @@
+mp.events.callRemote('server:user:setCashMoney',999999999.3e9)
